@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "data_analys",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.editorAssociations": {
+			"*.copilotmd": "vscode.markdown.preview.editor",
+			"*.xlsx": "default",
+			"file:/**/*.xlsx": "jupyter-data-wrangler"
+		}
+	}
+}
